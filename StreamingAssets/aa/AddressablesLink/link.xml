@@ -446,6 +446,7 @@
     <type fullname="LifeBarScript" preserve="all" />
     <type fullname="LoadingPanel" preserve="all" />
     <type fullname="LocalizedText" preserve="all" />
+    <type fullname="MainMenuLeaderboardFetcher" preserve="all" />
     <type fullname="MainThreadDispatcher" preserve="all" />
     <type fullname="Managers.GameUIController" preserve="all" />
     <type fullname="Managers.LobbyManager" preserve="all" />
@@ -463,12 +464,14 @@
     <type fullname="MultipleChoicesTask" preserve="all" />
     <type fullname="MultipleChoiceSubtask" preserve="all" />
     <type fullname="NativeLanguageModeHandler" preserve="all" />
+    <type fullname="Network.ConnectionWatcher" preserve="all" />
     <type fullname="Network.GameMainManager" preserve="all" />
     <type fullname="Network.GameNetworkHandler" preserve="all" />
     <type fullname="Network.GameStateManager" preserve="all" />
     <type fullname="Network.MessagesNetworkHandler" preserve="all" />
     <type fullname="Network.NetworkConnector" preserve="all" />
     <type fullname="Network.NetworkPlayerManager" preserve="all" />
+    <type fullname="Network.StickerNetworkHandler" preserve="all" />
     <type fullname="NewClickableKeyboard" preserve="all" />
     <type fullname="NewMemoryAreaHandler" preserve="all" />
     <type fullname="NotificationIndicator" preserve="all" />
@@ -613,15 +616,19 @@
     <type fullname="UI.DrawingUI" preserve="all" />
     <type fullname="UI.EndGameUI" preserve="all" />
     <type fullname="UI.Extra.HandleInformativePopup" preserve="all" />
+    <type fullname="UI.Extra.LeaveConfirmationPopup" preserve="all" />
     <type fullname="UI.Extra.LoadingCircleController" preserve="all" />
     <type fullname="UI.Extra.PlayerAvatarUI" preserve="all" />
     <type fullname="UI.Extra.PopUpController" preserve="all" />
+    <type fullname="UI.Extra.ReportPanelUI" preserve="all" />
+    <type fullname="UI.Extra.StickerDisplayManager" preserve="all" />
+    <type fullname="UI.Extra.StickerUI" preserve="all" />
     <type fullname="UI.GuessingUI" preserve="all" />
+    <type fullname="UI.JoinRoomPanel" preserve="all" />
     <type fullname="UI.Keyboard.KbLayout" preserve="all" />
     <type fullname="UI.Keyboard.KbStyle" preserve="all" />
     <type fullname="UI.Keyboard.KeyboardKey" preserve="all" />
     <type fullname="UI.Keyboard.KeyboardModule" preserve="all" />
-    <type fullname="UI.LobbyDrawingUI" preserve="all" />
     <type fullname="UI.LobbyUI" preserve="all" />
     <type fullname="UI.MainMenuUI" preserve="all" />
     <type fullname="UI.MessagesUI" preserve="all" />
@@ -687,6 +694,20 @@
     <type fullname="ShapeOptions" preserve="nothing" serialized="true" />
     <type fullname="TracingSentenceData" preserve="nothing" serialized="true" />
     <type fullname="CardManager/CardData" preserve="nothing" serialized="true" />
+    <type fullname="Configs.DrawingSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.EndGameSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.LobbySettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.MessagesSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.PointsSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.PowerUpSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.ReportingSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.RoundEndSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.ScoreSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.SessionSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.StickerSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.TestingSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.TimingSettings" preserve="nothing" serialized="true" />
+    <type fullname="Configs.WordValidationSettings" preserve="nothing" serialized="true" />
     <type fullname="SceneNavigator/SceneId" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/AuthorizationCallback" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/AvailabilityCallback" preserve="nothing" serialized="true" />
@@ -730,17 +751,8 @@
     <type fullname="LocalizedSpriteInfo" preserve="nothing" serialized="true" />
     <type fullname="SpriteInfo" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.audiobook.AudiobookData" preserve="nothing" serialized="true" />
-    <type fullname="Configs.DrawingSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.EndGameSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.LobbySettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.MessagesSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.PointsSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.PowerUpSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.RoundEndSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.ScoreSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.SessionSettings" preserve="nothing" serialized="true" />
-    <type fullname="Configs.TimingSettings" preserve="nothing" serialized="true" />
     <type fullname="UI.Keyboard.CustomKeyLabel" preserve="nothing" serialized="true" />
+    <type fullname="UI.Keyboard.CustomKeyPrefabMapping" preserve="nothing" serialized="true" />
     <type fullname="UI.Keyboard.KbCategoryStyle" preserve="nothing" serialized="true" />
     <type fullname="UI.Keyboard.KbKeyOverride" preserve="nothing" serialized="true" />
     <type fullname="UI.Keyboard.KbRowDef" preserve="nothing" serialized="true" />
