@@ -20,6 +20,7 @@
     <type fullname="AnimationEventsCallBack" preserve="all" />
     <type fullname="animationTargetScript" preserve="all" />
     <type fullname="AppVersion" preserve="all" />
+    <type fullname="ArenaChatAvoider" preserve="all" />
     <type fullname="ArenaChatController" preserve="all" />
     <type fullname="ArenaSpeechBubble" preserve="all" />
     <type fullname="ArenaStickerCatalog" preserve="all" />
