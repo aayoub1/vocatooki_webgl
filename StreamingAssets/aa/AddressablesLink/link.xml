@@ -633,6 +633,7 @@
     <type fullname="UI.LobbyUI" preserve="all" />
     <type fullname="UI.MainMenuUI" preserve="all" />
     <type fullname="UI.MessagesUI" preserve="all" />
+    <type fullname="UI.PlacementRewardUI" preserve="all" />
     <type fullname="UI.RoundEndUI" preserve="all" />
     <type fullname="UI.ScoresEntryUI" preserve="all" />
     <type fullname="UI.ScoresUI" preserve="all" />
