@@ -98,6 +98,7 @@
     <type fullname="com.kideo.learn.english.AnimationEventController" preserve="all" />
     <type fullname="com.kideo.learn.english.AnimationMapping" preserve="all" />
     <type fullname="com.kideo.learn.english.AreYouSurePanel" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DAudienceItems" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBackgroundAnchor" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBuilder" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DBuyBar" preserve="all" />
@@ -819,7 +820,7 @@
     <type fullname="ThirdActivityInfo" preserve="nothing" serialized="true" />
     <type fullname="ArenaStickerCatalog/StickerEntry" preserve="nothing" serialized="true" />
     <type fullname="SoundRepositroy/NamedSound" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DDefaultOutfit" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DAudienceCategory" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DFaceSliderInfo" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemInfo" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DOutfitSlot" preserve="nothing" serialized="true" />
