@@ -110,6 +110,7 @@
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DOptionButton" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DPortrait" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DRenderQuality" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DShopLayout" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStage" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStageAmbient" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DStageAtlas" preserve="all" />
@@ -401,6 +402,7 @@
     <type fullname="Head2HeadActivityLoader" preserve="all" />
     <type fullname="HeartTimer" preserve="all" />
     <type fullname="HelpPopUpHandler" preserve="all" />
+    <type fullname="HoldToDrag" preserve="all" />
     <type fullname="HorizontalLayoutLangHandler" preserve="all" />
     <type fullname="ImageSubtask" preserve="all" />
     <type fullname="ImageWithAudioChoices" preserve="all" />
@@ -497,6 +499,11 @@
     <type fullname="Managers.MainMenuManager" preserve="all" />
     <type fullname="ManageSpriteScale" preserve="all" />
     <type fullname="MapPool" preserve="all" />
+    <type fullname="MatchCurveGraphic" preserve="all" />
+    <type fullname="MatchItemButton" preserve="all" />
+    <type fullname="MatchLineView" preserve="all" />
+    <type fullname="MatchRowLayout" preserve="all" />
+    <type fullname="MatchSubtask" preserve="all" />
     <type fullname="MenuPanel" preserve="all" />
     <type fullname="MicAnimationHandler" preserve="all" />
     <type fullname="MoleController" preserve="all" />
@@ -518,6 +525,7 @@
     <type fullname="NewClickableKeyboard" preserve="all" />
     <type fullname="NewMemoryAreaHandler" preserve="all" />
     <type fullname="NotificationIndicator" preserve="all" />
+    <type fullname="OrderWordsSubtask" preserve="all" />
     <type fullname="OrthographicCameraScript" preserve="all" />
     <type fullname="PackageController" preserve="all" />
     <type fullname="PageNumber" preserve="all" />
@@ -569,6 +577,7 @@
     <type fullname="ScoreCounter" preserve="all" />
     <type fullname="ScreenEdgeColliders" preserve="all" />
     <type fullname="ScreenFadeEffect" preserve="all" />
+    <type fullname="ScrollDragRelay" preserve="all" />
     <type fullname="ScrollView" preserve="all" />
     <type fullname="SearchingOpponentPanelController" preserve="all" />
     <type fullname="SentenceCompletionQuiz" preserve="all" />
@@ -615,6 +624,8 @@
     <type fullname="SubTaskFeedback" preserve="all" />
     <type fullname="SubtaskLayoutConfig" preserve="all" />
     <type fullname="SubtasksBuilder" preserve="all" />
+    <type fullname="TableCellInput" preserve="all" />
+    <type fullname="TableSubtask" preserve="all" />
     <type fullname="TaskLayoutManager" preserve="all" />
     <type fullname="TaskLevelIcon" preserve="all" />
     <type fullname="TaskNavigationBar" preserve="all" />
@@ -709,6 +720,7 @@
     <type fullname="VTWordConnectGenerator" preserve="all" />
     <type fullname="WavesMovement" preserve="all" />
     <type fullname="WinnerPanelController" preserve="all" />
+    <type fullname="WordChipView" preserve="all" />
     <type fullname="WordConnect.WordsConnect" preserve="all" />
     <type fullname="WordImage" preserve="all" />
     <type fullname="WordInfoBubble" preserve="all" />
@@ -724,6 +736,7 @@
     <type fullname="WordsMatchingQuizManagement" preserve="all" />
     <type fullname="WordsOnBoardManager" preserve="all" />
     <type fullname="WordTreeManager" preserve="all" />
+    <type fullname="WrapLayoutGroup" preserve="all" />
     <type fullname="WrongAnswerEffect" preserve="all" />
     <type fullname="YesNoPopup" preserve="all" />
     <type fullname="CategoryColorsInfo" preserve="nothing" serialized="true" />
