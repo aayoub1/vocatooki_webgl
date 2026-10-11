@@ -19,6 +19,7 @@
     <type fullname="AnimationController" preserve="all" />
     <type fullname="AnimationEventsCallBack" preserve="all" />
     <type fullname="animationTargetScript" preserve="all" />
+    <type fullname="AnimatorParamInitializer" preserve="all" />
     <type fullname="AppVersion" preserve="all" />
     <type fullname="ArenaChatAvoider" preserve="all" />
     <type fullname="ArenaChatController" preserve="all" />
@@ -67,6 +68,7 @@
     <type fullname="ColorsLibrary" preserve="all" />
     <type fullname="com.kideo.audiobook.AudiobookBookCategoryToggle" preserve="all" />
     <type fullname="com.kideo.audiobook.AudiobookBookPreviewPanel" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookLevelFilter" preserve="all" />
     <type fullname="com.kideo.audiobook.AudiobookLibraryCard" preserve="all" />
     <type fullname="com.kideo.audiobook.AudiobookLibraryController" preserve="all" />
     <type fullname="com.kideo.audiobook.AudiobookPlayer" preserve="all" />
@@ -178,6 +180,12 @@
     <type fullname="com.kideo.learn.english.FillMissingTest" preserve="all" />
     <type fullname="com.kideo.learn.english.FillMissingWord" preserve="all" />
     <type fullname="com.kideo.learn.english.FishermanBaseManager" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingClam" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingDolphin" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingFrostBolt" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingPayload" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingPowerButton" preserve="all" />
+    <type fullname="com.kideo.learn.english.FishingShark" preserve="all" />
     <type fullname="com.kideo.learn.english.FoxTapReplay" preserve="all" />
     <type fullname="com.kideo.learn.english.Frogger.Frogger" preserve="all" />
     <type fullname="com.kideo.learn.english.Frogger.FroggerActivityManagement" preserve="all" />
@@ -201,6 +209,8 @@
     <type fullname="com.kideo.learn.english.LeaderBoard.VTLeaderBoardEntry" preserve="all" />
     <type fullname="com.kideo.learn.english.LeaderBoard.VTLeaderBoardManager" preserve="all" />
     <type fullname="com.kideo.learn.english.LenearTimerScript" preserve="all" />
+    <type fullname="com.kideo.learn.english.LetterFishingManager" preserve="all" />
+    <type fullname="com.kideo.learn.english.LetterFishingStage" preserve="all" />
     <type fullname="com.kideo.learn.english.LetterGridSelectionEntry" preserve="all" />
     <type fullname="com.kideo.learn.english.LetterGridSelectionGameManager" preserve="all" />
     <type fullname="com.kideo.learn.english.LetterImagesTest" preserve="all" />
@@ -282,6 +292,9 @@
     <type fullname="com.kideo.learn.english.SortingRound" preserve="all" />
     <type fullname="com.kideo.learn.english.SpeechRecognitionStatus" preserve="all" />
     <type fullname="com.kideo.learn.english.SpiderWebRescueManager" preserve="all" />
+    <type fullname="com.kideo.learn.english.StickerBook.StickerAwardFlow" preserve="all" />
+    <type fullname="com.kideo.learn.english.StickerBook.StickerCatalog" preserve="all" />
+    <type fullname="com.kideo.learn.english.StickerBook.StickerPackagePresenter" preserve="all" />
     <type fullname="com.kideo.learn.english.SubTaskFeedback" preserve="all" />
     <type fullname="com.kideo.learn.english.SwapTestLetter" preserve="all" />
     <type fullname="com.kideo.learn.english.SwapTestWord" preserve="all" />
@@ -561,6 +574,7 @@
     <type fullname="Raft" preserve="all" />
     <type fullname="RCLevelIcon" preserve="all" />
     <type fullname="ReunionManager" preserve="all" />
+    <type fullname="RigStructureBuilder" preserve="all" />
     <type fullname="RingsActivityManagement" preserve="all" />
     <type fullname="RingsGameManager" preserve="all" />
     <type fullname="RocketPlay" preserve="all" />
@@ -801,6 +815,7 @@
     <type fullname="AwardTypeInfo" preserve="nothing" serialized="true" />
     <type fullname="DailyGameTitle" preserve="nothing" serialized="true" />
     <type fullname="SpriteInfo" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.StickerBook.StickerDefinition" preserve="nothing" serialized="true" />
     <type fullname="ActivitiesByGrade" preserve="nothing" serialized="true" />
     <type fullname="SoundRepositroy/NamedSound" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.audiobook.AudiobookData" preserve="nothing" serialized="true" />
