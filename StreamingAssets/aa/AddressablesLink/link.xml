@@ -656,7 +656,6 @@
     <type fullname="TileData" preserve="all" />
     <type fullname="TimeBasedController" preserve="all" />
     <type fullname="Timer" preserve="all" />
-    <type fullname="TimerHandler" preserve="all" />
     <type fullname="TMProWordPanel" preserve="all" />
     <type fullname="ToggleButtonGroup" preserve="all" />
     <type fullname="ToggleGameObject" preserve="all" />
