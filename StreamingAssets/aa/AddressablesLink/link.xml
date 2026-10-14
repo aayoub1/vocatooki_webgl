@@ -122,6 +122,7 @@
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemedLabel" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemedRect" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DThemeSwitcher" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTzitzitFollow" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DWorldPresenter" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Character3DResolver" preserve="all" />
     <type fullname="com.kideo.learn.english.BaloonsActivityManagement" preserve="all" />
@@ -809,6 +810,7 @@
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/LightingPreset" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RectSpec" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTheme/RoleSprite" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DTzitzitFollow/Side" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.SubTaskAnswer" preserve="nothing" serialized="true" />
     <type fullname="NamedSound" preserve="nothing" serialized="true" />
     <type fullname="AwardTypeInfo" preserve="nothing" serialized="true" />
