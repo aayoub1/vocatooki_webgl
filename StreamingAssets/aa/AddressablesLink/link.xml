@@ -109,6 +109,7 @@
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemCatalog" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemCell" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DItemFlyEffect" preserve="all" />
+    <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DKippah" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DOptionButton" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DPortrait" preserve="all" />
     <type fullname="com.kideo.learn.english.Avatar3D.Avatar3DRenderQuality" preserve="all" />
@@ -765,12 +766,12 @@
     <type fullname="Metadata" preserve="nothing" serialized="true" />
     <type fullname="Word" preserve="nothing" serialized="true" />
     <type fullname="Wordsmetadatum" preserve="nothing" serialized="true" />
-    <type fullname="com.kideo.learn.english.Hint" preserve="nothing" serialized="true" />
     <type fullname="ActivityInfo" preserve="nothing" serialized="true" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.ShapesManager/Shape" preserve="nothing" serialized="true" />
     <type fullname="LetterDisplayColors" preserve="nothing" serialized="true" />
     <type fullname="ShapeOptions" preserve="nothing" serialized="true" />
     <type fullname="TracingSentenceData" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.learn.english.Hint" preserve="nothing" serialized="true" />
     <type fullname="CardManager/CardData" preserve="nothing" serialized="true" />
     <type fullname="SceneNavigator/SceneId" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/AuthorizationCallback" preserve="nothing" serialized="true" />
