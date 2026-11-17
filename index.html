@@ -9,12 +9,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="unity-webview.js"></script>
     <script src="libmp3lame.js"></script>
-  
+ 
+<script src="https://unpkg.com/mic-recorder-to-mp3@2.2.1/dist/index.min.js"></script>
+ 
     <!-- MICROPHONE PRO START -->
     <script src='./microphone.js'></script>
     <!-- MICROPHONE PRO END -->
-<script src="https://unpkg.com/mic-recorder-to-mp3@2.2.1/dist/index.min.js"></script>
-
 </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -32,24 +32,16 @@
       </div>
     </div>
     <script>
-      // One build serves every flavor: index.html?flavor=justlearn adds the "By Just Learn" mark to the footer.
-      // AppFlavor.cs reads the same parameter inside the player.
-      var flavor = (new URLSearchParams(window.location.search).get("flavor") || "").toLowerCase().replace(/[-_]/g, "");
-      if (flavor === "justlearn") {
-        document.body.classList.add("flavor-justlearn");
-      }
-    </script>
-    <script>
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/cee3bfd5589651a8b16e2a12b8abe5b3.loader.js";
       var config = {
-        dataUrl: buildUrl + "/203acbea9348cea166a4478888f0111f.data.unityweb",
-        frameworkUrl: buildUrl + "/923aa022192e6793df5ff81a1c1ad640.framework.js.unityweb",
-        codeUrl: buildUrl + "/2abd6eead808d015b7cb711de2240754.wasm.unityweb",
+        dataUrl: buildUrl + "/bad97fd77867da9c76cefc532d562d87.data.unityweb",
+        frameworkUrl: buildUrl + "/b9e82a6d73e41d3cf55c24f978fd9b34.framework.js.unityweb",
+        codeUrl: buildUrl + "/3e44fdc7e7b9a2cf1f0d1996fc9f182b.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Kideo Tech",
         productName: "Voca Tooki",
-        productVersion: "5.0.0",
+        productVersion: "5.0.1",
       };
 
       var container = document.querySelector("#unity-container");
